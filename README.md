@@ -87,7 +87,6 @@ Static multi-page website for **Websphere Solution Pvt. Ltd.**, a digital market
 ## Contact Info (from site)
 
 - **Email:** Info@webspheresolution.in
-- **Phone:** +91-7011032036
 - **LinkedIn:** [Websphere Solution Pvt. Ltd.](https://www.linkedin.com/company/websphere-solution-pvt-ltd/)
 
 ---
